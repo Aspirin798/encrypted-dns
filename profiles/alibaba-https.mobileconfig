@@ -11,10 +11,10 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2400:3200::1</string>
-					<string>2400:3200:baba::1</string>
 					<string>223.5.5.5</string>
 					<string>223.6.6.6</string>
+					<string>2400:3200::1</string>
+					<string>2400:3200:baba::1</string>
 				</array>
 				<key>ServerURL</key>
 				<string>https://dns.alidns.com/dns-query</string>
@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the AliDNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the AliDNS to Monterey and iOS 15 based systems</string>
 	<key>PayloadDisplayName</key>
 	<string>AliDNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
